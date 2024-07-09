@@ -1,0 +1,16 @@
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\bin\Debug\net8.0-windows\Simple Address Book Application.exe
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\bin\Debug\net8.0-windows\Simple Address Book Application.deps.json
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\bin\Debug\net8.0-windows\Simple Address Book Application.runtimeconfig.json
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\bin\Debug\net8.0-windows\Simple Address Book Application.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\bin\Debug\net8.0-windows\Simple Address Book Application.pdb
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\AddressBookApp.Form1.resources
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.csproj.GenerateResource.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.AssemblyInfoInputs.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.AssemblyInfo.cs
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.csproj.CoreCompileInputs.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\refint\Simple Address Book Application.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.pdb
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\Simple Address Book Application.genruntimeconfig.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Simple Address Book Application\Simple Address Book Application\obj\Debug\net8.0-windows\ref\Simple Address Book Application.dll
