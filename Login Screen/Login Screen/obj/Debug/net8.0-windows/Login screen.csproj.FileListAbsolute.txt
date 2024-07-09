@@ -1,0 +1,16 @@
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\bin\Debug\net8.0-windows\Login screen.exe
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\bin\Debug\net8.0-windows\Login screen.deps.json
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\bin\Debug\net8.0-windows\Login screen.runtimeconfig.json
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\bin\Debug\net8.0-windows\Login screen.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\bin\Debug\net8.0-windows\Login screen.pdb
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.csproj.GenerateResource.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.AssemblyInfoInputs.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.AssemblyInfo.cs
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.csproj.CoreCompileInputs.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\refint\Login screen.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.pdb
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\Login screen.genruntimeconfig.cache
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login screen\Login screen\obj\Debug\net8.0-windows\ref\Login screen.dll
+C:\Users\Jeron\source\repos\10965827\dcit318-assignment4-10965827\Login Screen\Login screen\obj\Debug\net8.0-windows\LoginApp.Form1.resources
